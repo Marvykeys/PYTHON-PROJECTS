@@ -1,4 +1,4 @@
-# Python Projects
+# PYTHON PROJECTS
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
